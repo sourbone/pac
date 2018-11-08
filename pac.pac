@@ -289,7 +289,6 @@ var proxies_str='PROXY 221.229.173.151:51201';
 
 function FindProxyForURL(url, host) 
 {
-
         for(var i in block_urls)
         {
                 var block_url=block_urls[i]
