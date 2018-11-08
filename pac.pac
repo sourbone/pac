@@ -282,7 +282,7 @@ function FindProxyForURL(url, host)
 
         for(var i in block_urls)
         {
-                var block_url=block_urls[i]
+                var block_url=block_urls[i];
                 if (shExpMatch(url,block_url))
                 {
                 return proxies_str;
