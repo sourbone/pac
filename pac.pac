@@ -290,3 +290,5 @@ function FindProxyForURL(url, host)
         }
         return 'DIRECT';
 }
+//"*interface.bilibili.com/*",
+//"*data.bilibili.com/*",
