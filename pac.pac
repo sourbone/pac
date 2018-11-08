@@ -275,7 +275,7 @@ var block_urls=["*iplocation.geo.qiyi.com/cityjson*",
 "*www.tudou.com/v/*",
 "*117.185.116.152/base/fcgi-bin/getsession*",
 "*nmobi.kuwo.cn/*"];
-var proxies_str="DIRECT;PROXY 221.229.173.151:51201";
+var proxies_str="PROXY 221.229.173.151:51201; DIRECT";
 
 var direct_urls=["*youtube*","*google*"];
 
