@@ -277,8 +277,18 @@ var block_urls=["*iplocation.geo.qiyi.com/cityjson*",
 "*nmobi.kuwo.cn/*"];
 var proxies_str="DIRECT;PROXY 221.229.173.151:51201";
 
+var direct_urls=["*youtube*","*google*"];
+
 function FindProxyForURL(url, host) 
 {
+        for(var i in direct_urls)
+        {
+                var direct_url=direct_urls[i];
+                if (shExpMatch(url,direct_url))
+                {
+                return 'DIRECT';
+                }
+        }
 
         for(var i in block_urls)
         {
