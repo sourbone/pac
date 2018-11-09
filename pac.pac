@@ -276,7 +276,8 @@ var block_urls=["*iplocation.geo.qiyi.com/cityjson*",
 "*nmobi.kuwo.cn/*",
 "*music.163.com*",
                 
-                "*163yun.com*"
+                "*163yun.com*",
+                "*netease.com*"
                 
 
                ];
@@ -308,7 +309,7 @@ function FindProxyForURL(url, host)
 //"*interface.bilibili.com/*",
 //"*data.bilibili.com/*",
 
-//"*netease.com*",
+//
               /*  "*223.252.199.69*",
                 
                 "*59.111.160.197*",
