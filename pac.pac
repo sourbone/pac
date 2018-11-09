@@ -275,11 +275,11 @@ var block_urls=["*iplocation.geo.qiyi.com/cityjson*",
 "*www.tudou.com/v/*",
 "*117.185.116.152/base/fcgi-bin/getsession*",
 "*nmobi.kuwo.cn/*",
-                "*.netease.com*",
+                "*netease.com*",
                 "*59.111.160.197*",
                 "*223.252.199.70*",
                 "*223.252.199.69*",
-                "*103.65.41.126*",
+                "*103.65.41.126*"
                ];
 var proxies_str="PROXY 221.229.173.151:51201; DIRECT";
 
