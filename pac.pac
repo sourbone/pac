@@ -277,7 +277,7 @@ var block_urls=["*iplocation.geo.qiyi.com/cityjson*",
 "*nmobi.kuwo.cn/*",
                 "*netease.com*",
                 "*163yun.com*",
-                "*music.163.com*",
+                //"*music.163.com*",
                 "*223.252.199.69*",
                 
                 "*59.111.160.197*",
