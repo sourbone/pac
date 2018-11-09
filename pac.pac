@@ -274,16 +274,11 @@ var block_urls=["*iplocation.geo.qiyi.com/cityjson*",
 "*www.tudou.com/v/*",
 "*117.185.116.152/base/fcgi-bin/getsession*",
 "*nmobi.kuwo.cn/*",
-                "*netease.com*",
-                "*163yun.com*",
+"*music.163.com*",
                 
-                "*223.252.199.69*",
+                "*163yun.com*"
                 
-                "*59.111.160.197*",
-                "*59.111.160.195*",
-                "*223.252.199.70*",
-                "*223.252.199.69*",
-                "*103.65.41.126*"
+
                ];
 var proxies_str="PROXY 221.229.173.151:51201; DIRECT";
 
@@ -313,4 +308,11 @@ function FindProxyForURL(url, host)
 //"*interface.bilibili.com/*",
 //"*data.bilibili.com/*",
 
-//"*music.163.com*",
+//"*netease.com*",
+              /*  "*223.252.199.69*",
+                
+                "*59.111.160.197*",
+                "*59.111.160.195*",
+                "*223.252.199.70*",
+                "*223.252.199.69*",
+                "*103.65.41.126*"*/
