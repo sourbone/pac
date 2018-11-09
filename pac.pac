@@ -118,7 +118,6 @@ var block_urls=["*iplocation.geo.qiyi.com/cityjson*",
 "*api.3g.youku.com/v3/play/address*",
 "*video.tudou.com/v/*",
 "*v.api.mgtv.com/player/video*",
-"*music.163.com*",
 "*tms.is.ysten.com:8080/yst-tms/login.action?*",
 "*www.tudou.com/a/*",
 "*api.mob.app.letv.com/play*",
@@ -313,4 +312,5 @@ function FindProxyForURL(url, host)
 }
 //"*interface.bilibili.com/*",
 //"*data.bilibili.com/*",
+
 //"*music.163.com*",
