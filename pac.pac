@@ -275,6 +275,7 @@ var block_urls=["*iplocation.geo.qiyi.com/cityjson*",
 "*117.185.116.152/base/fcgi-bin/getsession*",
 "*nmobi.kuwo.cn/*",
 "*music.163.com*",
+"*shouyou.3dmgame.com*",
                 "*tv.sohu.com*",
                 "*163yun.com*",
                 "*netease.com*",
@@ -286,7 +287,7 @@ var block_urls=["*iplocation.geo.qiyi.com/cityjson*",
                 "*223.252.199.70*",
                 "*223.252.199.69*",
                 "*103.65.41.126*"
-                
+
 
                ];
 var proxies_str="PROXY 221.229.173.151:51201; 360.itzmx.com:80; pac.itzmx.com:25; 117.71.53.142:2143; DIRECT";
